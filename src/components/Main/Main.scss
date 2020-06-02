@@ -1,0 +1,11 @@
+@import "../../scss/variables.scss";
+
+.main {
+    background-color: $secondaryColor;
+    min-height: 96vh;
+    text-align: center;
+
+    p {
+        color: $primaryColor;
+    }
+}
